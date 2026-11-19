@@ -1,26 +1,31 @@
 # Hitesh Jogeshwari
 
-Student developer focused on **C++, game development, and software engineering**.
+Computer Science & Engineering student at Medicaps University, interested in software development, front-end interfaces and game development.
 
-I’m learning by building projects, understanding the fundamentals, and improving them incrementally.
-
-## Current focus
-- C++ and object-oriented programming
-- Game development fundamentals
-- Data structures and algorithms
-- Practical software engineering
+**Portfolio:** [hitesh-jogeshwari-portfolio.vercel.app](https://hitesh-jogeshwari-portfolio.vercel.app/)  
+**LinkedIn:** [hiteshjogeshwari](https://www.linkedin.com/in/hiteshjogeshwari/)  
+**Instagram:** [@hanaisnaff](https://www.instagram.com/hanaisnaff/)
 
 ## Selected projects
 
-| Project | What it is |
+| Project | Overview |
 |---|---|
-| [Lumora](https://github.com/hanisnaff/Lumora) | Adaptive learning platform |
-| [Tic-Tac-Toe AI](https://github.com/hanisnaff/cpp-tictactoe-ai) | C++ game using minimax |
-| [Snake](https://github.com/hanisnaff/cpp-snake) | Graphical C++ game using raylib |
+| [Lumora](https://github.com/hanisnaff/Lumora) · [Live demo](https://lumora-eta-murex.vercel.app/) | Adaptive-learning demo for concept-level feedback and focused C++ pointers practice |
+| [Daigaku](https://github.com/hanisnaff/Daigaku) · [Live demo](https://daigaku-ecru.vercel.app/) | Student dashboard for attendance, subjects, grades and semester records |
+| [C++ Snake](https://github.com/hanisnaff/cpp-snake) | Graphical game built with C++17 and raylib |
+| [Tic-Tac-Toe AI](https://github.com/hanisnaff/cpp-tictactoe-ai) | Terminal game using minimax |
 | [Tiny Dungeon](https://github.com/hanisnaff/cpp-dungeon) | Turn-based terminal game |
 
-## Technologies
-C++ · TypeScript · JavaScript · React · Python · Git · CMake
+## Current learning focus
 
----
-[GitHub profile](https://github.com/hanisnaff)
+- C++ and programming fundamentals
+- Data structures and algorithms
+- JavaScript, HTML and CSS
+- Game-development fundamentals with Unity and raylib
+- Git and GitHub workflows
+
+## Contact
+
+- Email: hiteshjogeshwari08@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/hiteshjogeshwari/)
+- [Instagram](https://www.instagram.com/hanaisnaff/)
